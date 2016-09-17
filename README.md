@@ -8,3 +8,4 @@ Exp
 # Feature E
 # Feature F
 # Feature G
+# Feature Added on Release 0.2
